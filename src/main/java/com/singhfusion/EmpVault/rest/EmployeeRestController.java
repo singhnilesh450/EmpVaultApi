@@ -1,6 +1,6 @@
 package com.singhfusion.EmpVault.rest;
 
-import com.singhfusion.EmpVault.dao.EmployeeDAO;
+
 import com.singhfusion.EmpVault.entity.Employee;
 import com.singhfusion.EmpVault.service.EmployeeService;
 import org.springframework.beans.factory.parsing.EmptyReaderEventListener;
